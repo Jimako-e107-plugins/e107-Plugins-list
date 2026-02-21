@@ -4,8 +4,7 @@
 ## Free plugins in active development mode 
 
 * [JM Player plugin](https://github.com/Jimako-e107-plugins/jm_jplayer)
-* [GithubSync](https://github.com/Jimako-e107-plugins/githubSync)
-
+ 
 * [econtact](https://github.com/Jimako-e107-plugins/econtact)
 
 * [Forum plugin](https://github.com/Jimako-e107-plugins/forum)
