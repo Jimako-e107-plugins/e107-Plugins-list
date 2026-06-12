@@ -11,11 +11,14 @@
 
 * [lgsl](https://github.com/Jimako-e107-plugins/lgsl)
 
+* [Navatar plugin 2.0](https://github.com/Jimako-e107-plugins/e107-navatar-plugin)
+Navatar 2.0 runs on PHP 7.4–8.4 and current e107 v2.4(3), with all dependencies bundled — no composer needed on the server.
+Big thanks to Arun S. Sekher for the original Navatar plugin, and to Lasse Rafn for the php-initial-avatar-generator library that powers it.
+
 
 ### Forum plugin
 
 Customized core forum plugin - only some fixes - for e107 2.3.3, 2.3.4 PHP 7.4 - 8.2 
-
 
 
 ### Userlanguage menu 
