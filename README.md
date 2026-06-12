@@ -3,7 +3,7 @@
 
 ## Free plugins in active development mode 
 
-* [JM Player plugin](https://github.com/Jimako-e107-plugins/jm_jplayer)
+* [JM Player plugin]([https://github.com/Jimako-e107-plugins/jm_jplayer](https://github.com/Jimako-e107-plugins/e107-jm_jplayer-plugin))
  
 * [econtact](https://github.com/Jimako-e107-plugins/econtact)
 
