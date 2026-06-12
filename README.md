@@ -6,12 +6,6 @@
 * [JM Player plugin](https://github.com/Jimako-e107-plugins/e107-jm_jplayer-plugin)
 
 New version 2.0 runs on PHP 7.4–8.4 and current e107 v2.4(3).
- 
-* [econtact](https://github.com/Jimako-e107-plugins/econtact)
-
-* [Forum plugin](https://github.com/Jimako-e107-plugins/forum)
-
-* [lgsl](https://github.com/Jimako-e107-plugins/lgsl)
 
 * [Navatar plugin 2.0](https://github.com/Jimako-e107-plugins/e107-navatar-plugin)
   
@@ -23,6 +17,11 @@ Big thanks to Arun S. Sekher for the original Navatar plugin, and to Lasse Rafn 
 A user @mention plugin for e107 CMS.
 Big thanks to Arun S. Sekher for the original Mentions plugin
 
+
+* [Forum plugin](https://github.com/Jimako-e107-plugins/forum)
+
+* [lgsl](https://github.com/Jimako-e107-plugins/lgsl)
+
 ### Forum plugin
 
 Customized core forum plugin - only some fixes - for e107 2.3.3, 2.3.4 PHP 7.4 - 8.2 
@@ -32,18 +31,7 @@ Customized core forum plugin - only some fixes - for e107 2.3.3, 2.3.4 PHP 7.4 -
 version for 2.4
 - https://github.com/tgtje/userlanguage_flags_menu
 
-
-
-## Other available e107 plugins
-* [RDFaCE-for-e107](https://github.com/OTroccaz/RDFaCE-for-e107)  by  [OTroccaz](https://github.com/OTroccaz)
-* [estate](https://github.com/Vodhin/estate)  by  Vodhin 
-* [cookbook](https://github.com/Moc/cookbook)  by  Moc
-* [mentions](https://github.com/arunshekher/mentions)  by arunshekher
-
-
-
-
-
+ 
 ## Archived plugins, not recommended to use 
 
 * [Userjournals plugin](https://github.com/e107-plugins/userjournals) - version 2.2.0 alpha, for e107 2.3.1, PHP 7.2  
