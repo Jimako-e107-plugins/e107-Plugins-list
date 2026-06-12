@@ -3,7 +3,8 @@
 
 ## Free plugins in active development mode 
 
-* [JM Player plugin]([https://github.com/Jimako-e107-plugins/jm_jplayer](https://github.com/Jimako-e107-plugins/e107-jm_jplayer-plugin))
+* [JM Player plugin](https://github.com/Jimako-e107-plugins/e107-jm_jplayer-plugin)
+New version 2.0 runs on PHP 7.4–8.4 and current e107 v2.4(3).
  
 * [econtact](https://github.com/Jimako-e107-plugins/econtact)
 
