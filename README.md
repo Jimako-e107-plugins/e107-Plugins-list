@@ -4,6 +4,7 @@
 ## Free plugins in active development mode 
 
 * [JM Player plugin](https://github.com/Jimako-e107-plugins/e107-jm_jplayer-plugin)
+
 New version 2.0 runs on PHP 7.4–8.4 and current e107 v2.4(3).
  
 * [econtact](https://github.com/Jimako-e107-plugins/econtact)
@@ -13,10 +14,12 @@ New version 2.0 runs on PHP 7.4–8.4 and current e107 v2.4(3).
 * [lgsl](https://github.com/Jimako-e107-plugins/lgsl)
 
 * [Navatar plugin 2.0](https://github.com/Jimako-e107-plugins/e107-navatar-plugin)
+  
 Navatar 2.0 runs on PHP 7.4–8.4 and current e107 v2.4(3), with all dependencies bundled — no composer needed on the server.
 Big thanks to Arun S. Sekher for the original Navatar plugin, and to Lasse Rafn for the php-initial-avatar-generator library that powers it.
 
 * [Mentions plugin 2.0](https://github.com/Jimako-e107-plugins/e107-mentions-plugin)
+  
 A user @mention plugin for e107 CMS.
 Big thanks to Arun S. Sekher for the original Mentions plugin
 
