@@ -29,7 +29,7 @@ Customized core forum plugin - only some fixes - for e107 2.3.3, 2.3.4 PHP 7.4 -
 
 ### Userlanguage menu 
 version for 2.4
-- [https://github.com/tgtje/userlanguage_flags_menu](https://github.com/Kanonimpresor/userlanguage_flags_menu)
+- https://github.com/Kanonimpresor/userlanguage_flags_menu 
 
  
 ## Archived plugins, not recommended to use 
